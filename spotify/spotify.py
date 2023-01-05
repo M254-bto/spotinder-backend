@@ -103,4 +103,3 @@ class SpotinderModel:
 
 
 
-SpotinderModel.fit_model()

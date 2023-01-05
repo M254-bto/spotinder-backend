@@ -1,6 +1,3 @@
-from django.shortcuts import render
-
-# Create your views here.
 from .spotify import SpotinderModel
 
 def login_with_spotify(request):
